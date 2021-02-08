@@ -1,4 +1,16 @@
-# vue-magneds-test
+# Magneds VueJS Test
+For this application, we want to display the contents of the JS file you find here [link]
+
+The expectations are as follows:
+* Create the design as you see here [link]
+* Introduce navigation using 'VueRouter' between the Homepage and this page
+* On the rendering of the blocks. Enable it so I can click on it, and it will fill the block to 100 value.
+* Color the blocks based off their value.
+    * 0 = Grey
+    * 100 = Purple
+* When the last block is clicked, have a modal open displaying the following message:
+    * "Good job on completing your collection!"
+    * The modal will close when clicking outside the modal or on the 'Close' button
 
 ## Project setup
 ```
@@ -19,6 +31,3 @@ yarn build
 ```
 yarn lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
