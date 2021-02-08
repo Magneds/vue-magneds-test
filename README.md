@@ -1,8 +1,8 @@
 # Magneds VueJS Test
-For this application, we want to display the contents of the JS file you find here [link]
+For this application, we want to display the contents of the JS file you find [here](src/fixtures/pxtqu8tf3c69m4wus0t9s8wzt.json)
 
 The expectations are as follows:
-* Create the design as you see here [link]
+* Create the design as you see [here](./vue-magneds-test.png)
 * Introduce navigation using 'VueRouter' between the Homepage and this page
 * On the rendering of the blocks. Enable it so I can click on it, and it will fill the block to 100 value.
 * Color the blocks based off their value.
