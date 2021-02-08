@@ -8,7 +8,7 @@ The expectations are as follows:
 * Create a page for the Homepage. It can display any text.
 * Create a page for the display of this design [here](./vue-magneds-test.png)  
 * Introduce navigation using 'VueRouter' between the Homepage and this page.
-* On the rendering of the blocks. Enable it so I can click on it, and it will fill the block to 100 value.
+* On the rendering of the block, introduce the ability to click on each block, and set the block to 100 value.
 * Color the blocks based off their value.
     * 0 = Grey
     * 100 = Purple
